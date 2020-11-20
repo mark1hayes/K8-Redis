@@ -11,7 +11,7 @@ spec:
   # if your cluster supports it, uncomment the following to automatically create
   # an external load-balanced IP for the frontend service.
   type: LoadBalancer
-  loadBalancerIP: 10.0.146.124
+  loadBalancerIP: 10.63.2.100
   ports:
   - port: 80
   selector:
